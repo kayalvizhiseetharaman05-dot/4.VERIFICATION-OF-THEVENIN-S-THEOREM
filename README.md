@@ -34,17 +34,17 @@ It is the look-back resistance across the load terminals when all the sources ar
  
 **CIRCUIT DIAGRAM: VERIFICATION OF THEVENIN’S THEOREM**
 
-To measure IL
 
-<img width="469" height="143" alt="image" src="https://github.com/user-attachments/assets/a89d6d2b-c628-434d-961f-3ae03e200d8e" />
 
-To measure RTh or RN
 
-<img width="360" height="139" alt="image" src="https://github.com/user-attachments/assets/4a0cd230-205b-48ad-ab08-f359aaf192a6" />
-
-To measure VTh or Voc
+<img width="1600" height="738" alt="mmm" src="https://github.com/user-attachments/assets/f7e32c4b-fe74-43c8-bd5f-f436d875adef" />
 
 <img width="452" height="142" alt="image" src="https://github.com/user-attachments/assets/b0bb48a9-90fe-4979-a3fe-4e41c67239ce" />
+
+
+
+
+<img width="738" height="1600" alt="ll" src="https://github.com/user-attachments/assets/6c45a2a6-cb6d-4baa-b088-3a8befe865f7" />
 
 Thevenin’s equivalent circuit
 
@@ -78,3 +78,21 @@ Thevenin’s equivalent circuit
     Norton’s Theorem IL = IN * RN / ( RN + RL )
 
 13.	Theoretically verify the Norton’s theorem.
+
+
+CALCULATION:
+
+ 
+ 
+ <img width="1600" height="738" alt="op" src="https://github.com/user-attachments/assets/fde3a9f4-4849-4ac8-8589-fc262f8be321" />
+
+
+
+<img width="1600" height="738" alt="ka" src="https://github.com/user-attachments/assets/60138ca2-f7be-4b8b-bee8-a27420a96138" />
+
+MARKS SPLITUP:
+
+
+<img width="1600" height="738" alt="sua" src="https://github.com/user-attachments/assets/c4488e27-f336-4dad-8a9f-c86b4a60e693" />
+
+
